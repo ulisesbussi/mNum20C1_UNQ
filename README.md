@@ -16,3 +16,5 @@ https://youtu.be/JC3QGyDSVUM
 
 -Criterio de Parada: https://youtu.be/QoR2YwFEfTI
 
+-Ejercicios: https://youtu.be/IOuZBIYo4Lg
+
