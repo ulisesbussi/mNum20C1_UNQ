@@ -10,7 +10,7 @@ https://youtu.be/JC3QGyDSVUM
 
 ### Clase 2:
 
--[Metodo de la Bisección]https://youtu.be/h15Ronn39pQ
+-[Metodo de la Bisección](https://youtu.be/h15Ronn39pQ)
 -Método de la Falsa Posición: https://youtu.be/BWJGvuKtKXQ
 -Criterio de Parada: https://youtu.be/QoR2YwFEfTI
 -Ejercicios: https://youtu.be/IOuZBIYo4Lg
