@@ -28,3 +28,7 @@ https://youtu.be/JC3QGyDSVUM
 -[Método de la Secante](https://youtu.be/eSY9F4WQoDE)
 
 -[Ejercicios](https://youtu.be/CufRQ-Lrirk)
+
+### Clase 4: Sistemas de ecuaciones
+
+-[Practica](https://www.youtube.com/watch?v=ajdsEDiBUo0)
