@@ -43,10 +43,10 @@ https://youtu.be/JC3QGyDSVUM
 ### Clase 4: SELs
 
 
-[Intro+Remonte]https://youtu.be/MN4wB-glbhc
+[Intro+Remonte](https://youtu.be/MN4wB-glbhc)
 
-[Eliminación Gaussiana]https://youtu.be/pvYQ2ALnFUg
+[Eliminación Gaussiana](https://youtu.be/pvYQ2ALnFUg)
 
-[Pivot]https://youtu.be/fb3XPe-m-m8
+[Pivot](https://youtu.be/fb3XPe-m-m8)
 
-[Descomposición LU]https://youtu.be/p_PF7g1hTKY
+[Descomposición LU](https://youtu.be/p_PF7g1hTKY)
