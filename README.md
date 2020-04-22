@@ -2,11 +2,18 @@
 Github de métodos numéricos de la universidad de quilmes
 Acá iremos subiendo las clases, guias de ejercicios, apuntes y trabajos prácticos de la materia.
 
+
 También en este readme estará el link a las grabaciones de las clases!
 
 ![#f03c15](https://via.placeholder.com/300x70.png/f10/fff?text=MUY+IMPORTANTE) 
  La entrega del primer trabajo práctico será 29-abril-2020 via e-mail. 
 [Pueden encontrar el TP1 aquí](https://github.com/ulisesbussi/mNum20C1_UNQ/blob/master/guia/TP_1.pdf)
+
+
+
+
+
+
 
 
 
@@ -34,7 +41,10 @@ https://youtu.be/JC3QGyDSVUM
 
 -[Ejercicios](https://youtu.be/CufRQ-Lrirk)
 
+
 ### Clase 4: Sistemas de ecuaciones
+
+
 
 [Intro+Remonte](https://youtu.be/MN4wB-glbhc)
 
@@ -45,5 +55,4 @@ https://youtu.be/JC3QGyDSVUM
 [Descomposición LU](https://youtu.be/p_PF7g1hTKY)
 
 -[Practica](https://www.youtube.com/watch?v=ajdsEDiBUo0)
-
 
