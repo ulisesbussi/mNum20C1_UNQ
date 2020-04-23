@@ -46,13 +46,13 @@ https://youtu.be/JC3QGyDSVUM
 
 
 
-[Intro+Remonte](https://youtu.be/MN4wB-glbhc)
+-[Intro+Remonte](https://youtu.be/MN4wB-glbhc)
 
-[Eliminación Gaussiana](https://youtu.be/pvYQ2ALnFUg)
+-[Eliminación Gaussiana](https://youtu.be/pvYQ2ALnFUg)
 
-[Pivot](https://youtu.be/fb3XPe-m-m8)
+-[Pivot](https://youtu.be/fb3XPe-m-m8)
 
-[Descomposición LU](https://youtu.be/p_PF7g1hTKY)
+-[Descomposición LU](https://youtu.be/p_PF7g1hTKY)
 
 -[Practica](https://www.youtube.com/watch?v=ajdsEDiBUo0)
 
@@ -61,8 +61,8 @@ https://youtu.be/JC3QGyDSVUM
 ### Clase 5: SEL - Gauss-Seidel
 
 
-[Intro+Gauss-Seidel](https://youtu.be/MnvH8NqU9Iw)
+-[Intro+Gauss-Seidel](https://youtu.be/MnvH8NqU9Iw)
 
-[Gauss-Seidel con relajación](https://youtu.be/xnGFY-NsptE)
+-[Gauss-Seidel con relajación](https://youtu.be/xnGFY-NsptE)
 
-[Gauss-Seidel en No Lineal](https://youtu.be/olRGHFztVq0)
+-[Gauss-Seidel en No Lineal](https://youtu.be/olRGHFztVq0)
