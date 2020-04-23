@@ -56,3 +56,13 @@ https://youtu.be/JC3QGyDSVUM
 
 -[Practica](https://www.youtube.com/watch?v=ajdsEDiBUo0)
 
+
+
+### Clase 5: SEL - Gauss-Seidel
+
+
+[Intro+Gauss-Seidel](https://youtu.be/MnvH8NqU9Iw)
+
+[Gauss-Seidel con relajación](https://youtu.be/xnGFY-NsptE)
+
+[Gauss-Seidel en No Lineal](https://youtu.be/olRGHFztVq0)
