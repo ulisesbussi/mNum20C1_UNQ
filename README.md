@@ -9,7 +9,9 @@ También en este readme estará el link a las grabaciones de las clases!
  La entrega del primer trabajo práctico será 29-abril-2020 via e-mail. 
 [Pueden encontrar el TP1 aquí](https://github.com/ulisesbussi/mNum20C1_UNQ/blob/master/guia/TP_1.pdf)
 
-
+![#f03c15](https://via.placeholder.com/300x70.png/f50/fff?text=MUY+IMPORTANTE) 
+ La entrega del segundo trabajo práctico será 13-mayo-2020 via e-mail. 
+[Pueden encontrar el TP2 aquí](https://github.com/ulisesbussi/mNum20C1_UNQ/blob/master/guia/TP_2.pdf)
 
 
 
