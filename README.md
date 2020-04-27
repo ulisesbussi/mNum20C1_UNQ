@@ -68,3 +68,5 @@ https://youtu.be/JC3QGyDSVUM
 -[Gauss-Seidel con relajación](https://youtu.be/xnGFY-NsptE)
 
 -[Gauss-Seidel en No Lineal](https://youtu.be/olRGHFztVq0)
+
+-[Práctica:] https://youtu.be/6qtRLWOCbjw
