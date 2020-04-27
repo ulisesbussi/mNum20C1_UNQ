@@ -69,4 +69,4 @@ https://youtu.be/JC3QGyDSVUM
 
 -[Gauss-Seidel en No Lineal](https://youtu.be/olRGHFztVq0)
 
--[Práctica:] https://youtu.be/6qtRLWOCbjw
+-[Práctica](https://youtu.be/6qtRLWOCbjw)
