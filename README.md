@@ -70,3 +70,13 @@ https://youtu.be/JC3QGyDSVUM
 -[Gauss-Seidel en No Lineal](https://youtu.be/olRGHFztVq0)
 
 -[Práctica](https://youtu.be/6qtRLWOCbjw)
+
+
+### Clase 6: Ajustes-Interpolación
+
+
+-[Intro + Ajuste Lineal](https://youtu.be/ToP_h55vSpI)
+
+-[Linealización + Ajuste Polinomial](https://youtu.be/YDTCI7aqHbM)
+
+-[Interpolación: Newton](https://youtu.be/lDb8KVaOCx0)
