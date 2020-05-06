@@ -80,3 +80,14 @@ https://youtu.be/JC3QGyDSVUM
 -[Linealización + Ajuste Polinomial](https://youtu.be/YDTCI7aqHbM)
 
 -[Interpolación: Newton](https://youtu.be/lDb8KVaOCx0)
+
+### Clase 7: Ajustes-Interpolación
+
+
+[Validación de ajuste](https://youtu.be/YNjP28uj8SQ)
+
+[Interpolación Lagrange](https://youtu.be/MAwf5XGQFsE)
+
+[Spline Lineal](https://youtu.be/4DlQzS_wPao)
+
+[Spline Cuadrático](https://youtu.be/3sTrLoPlh9U)
