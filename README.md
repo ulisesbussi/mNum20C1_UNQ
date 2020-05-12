@@ -88,3 +88,5 @@ https://youtu.be/JC3QGyDSVUM
 [Spline Lineal](https://youtu.be/4DlQzS_wPao)
 
 [Spline Cuadrático](https://youtu.be/3sTrLoPlh9U)
+
+-[Practica](https://youtu.be/86y7KwD3z5E)
