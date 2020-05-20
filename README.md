@@ -90,3 +90,13 @@ https://youtu.be/JC3QGyDSVUM
 [Spline Cuadrático](https://youtu.be/3sTrLoPlh9U)
 
 -[Practica](https://youtu.be/86y7KwD3z5E)
+
+### Clase 8: Derivación
+
+
+[Intro+MétodosSimples](https://youtu.be/3nhhsNKceY4)
+
+[Aproximaciones superiores](https://youtu.be/OFM0xLz4Fko)
+
+[Amplificación de Ruido](https://youtu.be/i6kGnI_5ywQ)
+
