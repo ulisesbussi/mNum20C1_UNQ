@@ -100,3 +100,13 @@ https://youtu.be/JC3QGyDSVUM
 
 [Amplificación de Ruido](https://youtu.be/i6kGnI_5ywQ)
 
+[Practica](https://youtu.be/_R7UF1QzMzM)
+
+### Clase 8: Integrales
+
+[Teoría, parte I] (https://youtu.be/gL21SwhegNI)
+
+[Teoría, parte II] (https://youtu.be/nnKuJjhLMbA)
+
+
+
