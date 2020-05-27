@@ -102,11 +102,17 @@ https://youtu.be/JC3QGyDSVUM
 
 [Practica](https://youtu.be/_R7UF1QzMzM)
 
-### Clase 8: Integrales
+### Clase 9: Integrales
 
 [Teoría, parte I] (https://youtu.be/gL21SwhegNI)
 
 [Teoría, parte II] (https://youtu.be/nnKuJjhLMbA)
+
+### Clase 10: EDOs parte I
+
+[Teoría, parte I] https://youtu.be/rn92IjLRokI
+
+[Teoría, parte II] https://youtu.be/e8VS4OR1W90
 
 
 
