@@ -100,3 +100,25 @@ https://youtu.be/JC3QGyDSVUM
 
 [Amplificación de Ruido](https://youtu.be/i6kGnI_5ywQ)
 
+[Practica](https://youtu.be/_R7UF1QzMzM)
+
+### Clase 9: Integrales
+
+[Teoría, parte I] (https://youtu.be/gL21SwhegNI)
+
+[Teoría, parte II] (https://youtu.be/nnKuJjhLMbA)
+
+### Clase 10: EDOs parte I
+
+[Teoría, parte I] https://youtu.be/rn92IjLRokI
+
+[Teoría, parte II] https://youtu.be/e8VS4OR1W90
+
+### Clase 11: EDOs parte II
+
+[Teoría, parte I] https://youtu.be/Iphnao8LoxU
+
+[Teoría, parte II] https://youtu.be/fjfMz7cvm0M
+
+
+
