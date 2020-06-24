@@ -123,9 +123,14 @@ https://youtu.be/JC3QGyDSVUM
 
 ### Clase 11: EDOs parte II
 
-[Teoría, parte I] https://youtu.be/Iphnao8LoxU
+[Teoría, parte I] (https://youtu.be/Iphnao8LoxU)
 
-[Teoría, parte II] https://youtu.be/fjfMz7cvm0M
+[Teoría, parte II] (https://youtu.be/fjfMz7cvm0M)
 
 
 
+### Clase 12:
+
+[Teoría, parte I](https://www.youtube.com/watch?v=NwkNkWb8bh8&feature=youtu.be)
+
+[Teoría, parte II](https://youtu.be/9wdDdWBLt4k)
