@@ -5,15 +5,18 @@ Acá iremos subiendo las clases, guias de ejercicios, apuntes y trabajos prácti
 
 También en este readme estará el link a las grabaciones de las clases!
 
+![#f03c15](https://via.placeholder.com/300x70.png/d00/fff?text=MUY+IMPORTANTE) 
+ La entrega del cuarto trabajo práctico será 08-Julio-2020 via e-mail. 
+[Pueden encontrar el TP3 aquí](https://github.com/ulisesbussi/mNum20C1_UNQ/blob/master/guia/TP_4.pdf)
 
 
-![#f03c15](https://via.placeholder.com/300x70.png/f00/fff?text=MUY+IMPORTANTE) 
- La entrega del segundo trabajo práctico será 24-Junio-2020 via e-mail. 
+![#f03c15](https://via.placeholder.com/300x70.png/d00/fff?text=MUY+IMPORTANTE) 
+ La entrega del tercer trabajo práctico será 24-Junio-2020 via e-mail. 
 [Pueden encontrar el TP3 aquí](https://github.com/ulisesbussi/mNum20C1_UNQ/blob/master/guia/TP_3.pdf)
 
 
 
-![#f03c15](https://via.placeholder.com/300x70.png/f00/fff?text=MUY+IMPORTANTE) 
+![#f03c15](https://via.placeholder.com/300x70.png/a00/fff?text=IMPORTANTE) 
  La entrega del segundo trabajo práctico será 13-mayo-2020 via e-mail. 
 [Pueden encontrar el TP2 aquí](https://github.com/ulisesbussi/mNum20C1_UNQ/blob/master/guia/TP_2.pdf)
 
