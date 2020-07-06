@@ -7,7 +7,7 @@ También en este readme estará el link a las grabaciones de las clases!
 
 ![#f03c15](https://via.placeholder.com/300x70.png/d00/fff?text=MUY+IMPORTANTE) 
  La entrega del cuarto trabajo práctico será 08-Julio-2020 via e-mail. 
-[Pueden encontrar el TP3 aquí](https://github.com/ulisesbussi/mNum20C1_UNQ/blob/master/guia/TP_4.pdf)
+[Pueden encontrar el TP4aquí](https://github.com/ulisesbussi/mNum20C1_UNQ/blob/master/guia/TP_4.pdf)
 
 
 ![#f03c15](https://via.placeholder.com/300x70.png/d00/fff?text=MUY+IMPORTANTE) 
